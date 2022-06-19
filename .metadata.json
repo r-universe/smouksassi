@@ -1,0 +1,10 @@
+[
+  {
+    "package": "coveffectsplot",
+    "oncran": true
+  },
+  {
+    "package": "ggquickeda",
+    "oncran": true
+  }
+]
